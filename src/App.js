@@ -8,7 +8,7 @@ import TDTable from './components/TDTable';
 export default function App() {
   return (
     <Box sx={{ width: '100%' }}>
-      <Box sx={{ margin: '0 auto', background: 'blue', padding: '7.5vw'}} >
+      <Box sx={{ margin: '0 auto', background: 'blue', padding: '3vw 7.5vw'}} >
       <Typography
         variant="h1"
         component="div"
